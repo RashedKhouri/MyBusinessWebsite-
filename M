@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="EcoCharge - Kinetic Energy-Powered Phone Cases for a Sustainable Future">
+    <meta name="keywords" content="EcoCharge, sustainable phone case, kinetic energy, mobile charging, eco-friendly, innovative technology">
+    <meta name="author" content="Rashed Al Khoori">
+    <title>EcoCharge - Kinetic Energy Powered Phone Cases</title>
+    
+    <!-- Linking Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+    
+    <!-- Linking External Stylesheet -->
+    <link rel="stylesheet" href="styles.css">
+    
+    <!-- Linking to Icon Pack -->
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+
+    <!-- Adding Meta Tags for Social Media Sharing -->
+    <meta property="og:title" content="EcoCharge - Kinetic Energy Powered Phone Cases">
+    <meta property="og:description" content="Harness kinetic energy to charge your phone with EcoCharge, an eco-friendly, innovative phone case.">
+    <meta property="og:image" content="images/ecocharge-banner.jpg">
+    <meta property="og:url" content="https://www.ecocharge.ae">
+    
+    <!-- Favicon and Theme Color for Mobile Devices -->
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+    <meta name="theme-color" content="#1a3d5e">
+</head>
+<body>
+
+    <!-- Header Section -->
+    <header id="header">
+        <nav class="navbar">
+            <div class="logo">
+                <img src="images/logo.png" alt="EcoCharge Logo">
+            </div>
+            <ul class="nav-links">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#features">Features</a></li>
+                <li><a href="#pricing">Pricing</a></li>
+                <li><a href="#sustainability">Sustainability</a></li>
+                <li><a href="#team">Our Team</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+            <button class="cta-btn">Shop Now</button>
+        </nav>
+    </header>
+
+    <!-- Home Section -->
+    <section id="home" class="hero">
+        <div class="hero-content">
+            <h1 class="hero-title">Charge On the Go with EcoCharge</h1>
+            <p class="hero-subtitle">The first kinetic energy-powered phone case, turning your movement into power.</p>
+            <a href="#pricing" class="cta-btn">Discover More</a>
+        </div>
+        <img src="images/ecocharge-phone.png" alt="EcoCharge Phone Case" class="hero-image">
+    </section>
+
+    <!-- Features Section -->
+    <section id="features" class="features">
+        <div class="container">
+            <h2 class="section-title">Features</h2>
+            <div class="feature-cards">
+                <div class="feature-card">
+                    <img src="images/energy-harvesting.png" alt="Energy Harvesting">
+                    <h3>Energy Harvesting</h3>
+                    <p>Convert your movement into electricity and charge your phone without external power sources.</p>
+                </div>
+                <div class="feature-card">
+                    <img src="images/sleek-design.png" alt="Sleek Design">
+                    <h3>Sleek & Protective Design</h3>
+                    <p>Lightweight yet durable, offering a slim profile and impact-resistant protection for your phone.</p>
+                </div>
+                <div class="feature-card">
+                    <img src="images/compatibility.png" alt="Compatibility">
+                    <h3>USB-C & Lightning Compatibility</h3>
+                    <p>Compatible with all modern devices, ensuring seamless charging for all smartphone models.</p>
+                </div>
+                <div class="feature-card">
+                    <img src="images/eco-materials.png" alt="Eco-Friendly Materials">
+                    <h3>Eco-Friendly Materials</h3>
+                    <p>Made from sustainable, recycled plastics, reducing environmental impact while delivering top-tier quality.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Pricing Section -->
+    <section id="pricing" class="pricing">
+        <div class="container">
+            <h2 class="section-title">Pricing Plans</h2>
+            <div class="pricing-cards">
+                <div class="pricing-card">
+                    <h3>Basic Model</h3>
+                    <p class="price">AED 149</p>
+                    <ul>
+                        <li>Energy Harvesting Technology</li>
+                        <li>Lightweight & Protective</li>
+                        <li>USB-C & Lightning Compatibility</li>
+                    </ul>
+                    <a href="#shop-now" class="cta-btn">Shop Now</a>
+                </div>
+                <div class="pricing-card">
+                    <h3>Premium Model</h3>
+                    <p class="price">AED 199</p>
+                    <ul>
+                        <li>Wireless Charging Feature</li>
+                        <li>Energy Harvesting Technology</li>
+                        <li>USB-C & Lightning Compatibility</li>
+                    </ul>
+                    <a href="#shop-now" class="cta-btn">Shop Now</a>
+                </div>
+                <div class="pricing-card">
+                    <h3>Subscription Plan</h3>
+                    <p class="price">AED 25/month</p>
+                    <ul>
+                        <li>Monthly Upgrades</li>
+                        <li>Recycling Discounts</li>
+                        <li>Exclusive Offers</li>
+                    </ul>
+                    <a href="#subscribe" class="cta-btn">Subscribe Now</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Sustainability Section -->
+    <section id="sustainability" class="sustainability">
+        <div class="container">
+            <h2 class="section-title">Sustainability at EcoCharge</h2>
+            <p>At EcoCharge, we're committed to reducing our carbon footprint by using eco-friendly materials and promoting sustainability in everything we do. From using recycled plastics to ensuring minimal energy consumption, our product design prioritizes the environment at every step.</p>
+            <div class="eco-icons">
+                <img src="images/recycled-plastics.png" alt="Recycled Plastics">
+                <img src="images/low-energy.png" alt="Low Energy Consumption">
+                <img src="images/carbon-footprint.png" alt="Reduced Carbon Footprint">
+            </div>
+        </div>
+    </section>
+
+    <!-- Our Team Section -->
+    <section id="team" class="team">
+        <div class="container">
+            <h2 class="section-title">Meet the Team</h2>
+            <div class="team-members">
+                <div class="team-member">
+                    <img src="images/rashed.jpg" alt="Rashed Al Khoori">
+                    <h3>Rashed Al Khoori</h3>
+                    <p>CEO & Visionary</p>
+                    <p>Rashed leads EcoCharge with a vision for a sustainable future powered by innovative technology.</p>
+                </div>
+                <div class="team-member">
+                    <img src="images/rashed-maz.jpg" alt="Rashed Maz">
+                    <h3>Rashed Maz</h3>
+                    <p>Tech Lead</p>
+                    <p>Rashed Maz oversees the development and testing of the kinetic energy harvesting system.</p>
+                </div>
+                <div class="team-member">
+                    <img src="images/kevin.jpg" alt="Kevin">
+                    <h3>Kevin</h3>
+                    <p>Marketing & Sales</p>
+                    <p>Kevin drives the promotional campaigns, sales partnerships, and customer engagement strategies.</p>
+                </div>
+                <div class="team-member">
+                    <img src="images/qasim.jpg" alt="Qasim">
+                    <h3>Qasim</h3>
+                    <p>Finance & Logistics</p>
+                    <p>Qasim handles budgeting, supply chain management, and ensures the financial health of the business.</p>
+                </div>
+                <div class="team-member">
+                    <img src="images/rayan.jpg" alt="Rayan">
+                    <h3>Rayan</h3>
+                    <p>Product Development</p>
+                    <p>Rayan works tirelessly to improve the product design and ensure EcoCharge's superior quality.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="contact">
+        <div class="container">
+            <h2 class="section-title">Contact Us</h2>
+            <form action="#" method="post" class="contact-form">
+                <input type="text" name="name" placeholder="Your Name" required>
+                <input type="email" name="email" placeholder="Your Email" required>
+                <textarea name="message" placeholder="Your Message" required></textarea>
+                <button type="submit" class="cta-btn">Send Message</button>
+            </form>
+        </div>
+    </section>
+
+    <!-- Footer Section -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-links">
+                <ul>
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#features">Features</a></li>
+                    <li><a href="#pricing">Pricing</a></li>
+                    <li><a href="#sustainability">Sustainability</a></li>
+                    <li><a href="#team">Our Team</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </div>
+            <div class="social-media">
+                <a href="https://www.instagram.com/ecocharge" target="_blank" class="social-icon">Instagram</a>
+                <a href="https://www.twitter.com/ecocharge" target="_blank" class="social-icon">Twitter</a>
+                <a href="https://www.facebook.com/ecocharge" target="_blank" class="social-icon">Facebook</a>
+            </div>
+            <p>&copy; 2025 EcoCharge. All Rights Reserved.</p>
+        </div>
+    </footer>
+
+</body>
+</html>
